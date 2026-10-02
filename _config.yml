@@ -1,0 +1,27 @@
+title: Michał Kosiński
+description: AWS Cloud · DevOps · Generative AI platforms
+url: https://michal-kosinski.github.io
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default   # air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: Michał Kosiński
+  bio: "AWS Certified DevOps Engineer – Professional"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/michal-kosinski"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
