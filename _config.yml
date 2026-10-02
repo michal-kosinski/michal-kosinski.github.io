@@ -1,5 +1,5 @@
 title: Michał Kosiński
-description: AWS Cloud · DevOps · Generative AI platforms
+description: AWS Solutions Architect · Platform Engineering for Cloud & GenAI · IaC & GitOps
 url: https://michal-kosinski.github.io
 
 remote_theme: mmistakes/minimal-mistakes
@@ -13,8 +13,12 @@ plugins:
 
 author:
   name: Michał Kosiński
-  bio: "AWS Certified DevOps Engineer – Professional"
+  bio: "AWS Solutions Architect · Platform Engineering for Cloud & GenAI · 3× AWS Certified Professional"
+  location: "Warsaw, Poland"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/michal-kosinski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/michal-kosinski"
